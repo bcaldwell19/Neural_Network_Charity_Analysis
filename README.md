@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # Neural_Network_Charity_Analysis
-=======
-# Neural_Network_Charity_Analysis
-
 
 > With your knowledge of machine learning and neural networks, you’ll use the features in the provided dataset to help Beks create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup.
 
@@ -51,4 +47,3 @@ This was done with the help of hyper parameter tuning. I adjusted the features t
 ## Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
 
 This deep learning model does a decent job of predicting the success from funding by Alphabet.  Bek could have used any other classification algorithm such as random forest classifier.  My reasoning is that there is only one target, so running it through a deep learning model may not be necessary to get accurate predictions. The target has only two categories, so classification algorithms will likely work fine for this example. 
->>>>>>> 59b15ddda1c43c0f688eb5942234e02269a56b1d
